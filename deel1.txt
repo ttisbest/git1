@@ -1,0 +1,7 @@
+VHT---GIT
+repository:
+een verzaamel plaats voor al je dingen.
+Bron::
+1. http://www.mijnwoordenboek.nl/vertaal/EN/NL/repository 
+2. http://www.interglot.nl/woordenboek/en/nl/vertaal/repository
+
